@@ -1,2 +1,2 @@
 # kantineLab
-CLI for scraping the DESY cantine information
+CLI for scraping the DESY kantine information
